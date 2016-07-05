@@ -3,6 +3,7 @@ comment: Created by ALB v2.0.1
 files:
 - pax_global_header
 - cex.mdl
+- created
 - dff_r_v2.CEX
 - dff_r_v2.gex
 - dff_v2.CEX
@@ -12,3 +13,4 @@ files:
 - inv1_v2.gex
 - inv_160614.gex
 - nand2_v2.gex
+- readme.txt
